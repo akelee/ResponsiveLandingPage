@@ -26,7 +26,7 @@ a{
 /*Section*/
 .section{ 
     padding:2rem;
-    counter-reset: #ffffff;
+    color: #ffffff;
     display:inline-block; 
 }
 
